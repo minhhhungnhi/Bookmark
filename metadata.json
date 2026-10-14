@@ -1,0 +1,7 @@
+{
+  "name": "YouLibrary - YouTube Video Library & Player",
+  "description": "A YouTube-inspired video library where you can curate, embed, organize into playlists, and watch your favorite YouTube videos with a rich player experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
